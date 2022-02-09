@@ -1,8 +1,8 @@
-<b> Project Name
+**Project Name**
 
 Demand Prediction for Shared Bikes
 
-<b> Problem Statement
+**Problem Statement**
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.
 The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful
